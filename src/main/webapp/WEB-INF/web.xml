@@ -8,7 +8,7 @@
     <display-name>Spring PetClinic</display-name>
     <description>Spring PetClinic sample application</description>
 
-    <!-- When using Spring jpa, use the following: -->
+    <!-- When using Spring jpa, use the following:  -->
     <context-param>
         <param-name>spring.profiles.active</param-name>
         <param-value>jpa</param-value>
